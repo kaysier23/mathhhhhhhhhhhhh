@@ -19,7 +19,6 @@ h1{
 
 form{
   font-size: 30px;
-  
 }
 h2{
     font-family: ;
@@ -32,7 +31,13 @@ input{
 border: 3px solid #000;
   width: 250px;
   height: 30px;
+   border-radius: 25px;
+  margin-top: 20px;
 }
 h3{
+  height:50px;
+  width: 30px;
   border: 3px solid #000;
+  margin: auto;
+  padding: auto;
 }
