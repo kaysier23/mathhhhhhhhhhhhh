@@ -1,4 +1,4 @@
-.body{
+body{
 		height: 800px;
 		border: 2px solid #000;
     width: 550px;
@@ -8,7 +8,7 @@
   color: white;
 
 }
-.h1{
+h1{
   font-family: arial;
   font-size: 20px;
 }
